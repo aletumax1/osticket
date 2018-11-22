@@ -1,0 +1,24 @@
+#
+# Default system data for ticket priorities
+#
+---
+bajo:
+    priority_id: 1
+    priority_desc: Bajo
+    priority_color: "#DDFFDD"
+    priority_urgency: 4
+normal:
+    priority_id: 2
+    priority_desc: Normal
+    priority_color: "#FFFFF0A"
+    priority_urgency: 3
+alto:
+    priority_id: 3
+    priority_desc: Alto
+    priority_color: "#FEE7E7"
+    priority_urgency: 2
+emergencia:
+    priority_id: 4
+    priority_desc: Emergencia
+    priority_color: "#FEE7E7"
+    priority_urgency: 1
